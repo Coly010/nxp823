@@ -46,9 +46,6 @@
       "options": {
         "reportsDirectory": "../../coverage/apps/app1"
       }
-    },
-    "lint": {
-      "executor": "@nx/eslint:lint"
     }
   }
 }
